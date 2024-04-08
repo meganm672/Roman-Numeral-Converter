@@ -120,3 +120,23 @@
     display: none;
   }
   
+  footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+    font-size: 1.2em;
+    position: fixed;
+    color: var(--light-grey);
+  }
+  
+  footer a {
+    color: #50cfd6;
+  }
+  
+  footer a:hover {
+    color: #fe4c7b;
+    font-size: 1.5em;
+  }
+  
