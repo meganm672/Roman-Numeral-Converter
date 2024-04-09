@@ -9,4 +9,4 @@ This project takes Arabic Numeral numbers 1-3999 and converts it into Roman nume
 ## Access this turtoial to do yourself!
 This tutorial is part of freeCodeCamps Javascript Algorithims and Data Sctructures Course
 
-[Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[freeCodeCamp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
